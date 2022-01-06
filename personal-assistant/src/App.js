@@ -4,7 +4,7 @@ import OtherPage from './containers/OtherPage'
 // import COMPONENT from 'FILEPATH'
 
 const App = () => (
-  <OtherPage />
+  <MainPage />
 )
 
 export default App
