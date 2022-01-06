@@ -1,10 +1,10 @@
 import React from 'react'
+import MainPage from './containers/MainPage'
+import OtherPage from './containers/OtherPage'
 // import COMPONENT from 'FILEPATH'
 
 const App = () => (
-  <div>
-    Beep boop. Hi there, I&apos;m your personal assistant :D
-  </div>
+  <OtherPage />
 )
 
 export default App
