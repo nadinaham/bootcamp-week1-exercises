@@ -1,3 +1,6 @@
+# NADINE'S NOTES
+css looks very chonky i am sorry,,, i promise i know how to css it just takes a While to get it to look really nice and i spent most of that time on other exercises LOL
+
 # Week 1 Bootcamp Exercises
 
 Here are exercises to be completed during hacktime for the first week of the Bootcamp. See the README for each exercise for specific directions.
